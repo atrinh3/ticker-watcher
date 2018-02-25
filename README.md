@@ -1,4 +1,4 @@
-# ticker-watcher
+# Ticker Watcher
 
 Gather_Data_1.0.py uses an online API for looking up live cryptocurrency costs. In this example, the link to the API to view the price of ETH or Etherium is:
 
